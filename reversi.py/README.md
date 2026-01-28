@@ -2,9 +2,9 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste no desenvolvimento de um jogo digital do tipo **Reversi (Othello)**, implementado na linguagem de programação **Python**, utilizando a biblioteca **Pygame** para a construção da interface gráfica, interação com o utilizador, animações e reprodução de áudio.
+Este projeto consiste no desenvolvimento de um jogo digital do tipo **Reversi (Othello)**, implementado na linguagem **Python**, utilizando a biblioteca **Pygame** para a construção da interface gráfica, interação com o utilizador, animações e reprodução de áudio.
 
-O projeto foi desenvolvido no contexto académico, com o objetivo de aplicar conceitos fundamentais de programação, tais como lógica computacional, modularização, programação gráfica e interação humano-computador.
+O projeto foi desenvolvido no contexto académico, com o objetivo de aplicar conceitos fundamentais de programação, tais como lógica computacional, programação gráfica e interação humano-computador.
 
 ---
 
@@ -57,12 +57,12 @@ No final da partida, é apresentado um ecrã com o resultado do jogo.
 
 ## Melhorias Futuras
 
-Apesar de o sistema cumprir os objetivos propostos, existem diversas possibilidades de evolução:
+Apesar de o sistema cumprir os objetivos propostos,futuramente desnvolveremos versoes melhoradas:
 
 ### Implementação de Graus de Dificuldade
 - **Fácil:** jogadas aleatórias válidas
 - **Médio:** escolha da jogada com maior ganho imediato
-- **Difícil:** implementação de algoritmos como Minimax com poda Alfa-Beta
+- **Difícil:** implementação de algoritmos 
 
 ### Melhorias Gráficas
 - Ecrãs distintos para vitória, derrota e empate
@@ -75,8 +75,6 @@ Apesar de o sistema cumprir os objetivos propostos, existem diversas possibilida
 - Interação textual com o jogador humano
 
 ### Outras Evoluções
-- Sistema de estatísticas de partidas
-- Suporte a diferentes resoluções de ecrã
 - Personalização visual do tabuleiro e das peças
 - Modo online ou em rede local
 
