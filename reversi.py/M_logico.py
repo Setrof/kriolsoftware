@@ -8,11 +8,6 @@ vazio = 0      # casa vazia
 preto = 1      # casa preta
 branco = -1    # casa branca
 
-# contadores de vitória (MD3)
-vitoria_branco = 0
-vitoria_preto = 0
-partidas_para_vencer = 2
-
 # direções possíveis ao redor de uma peça (8 direções)
 direcoes = [
     (-1, -1), (-1, 0), (-1, 1),   # diagonais acima
@@ -107,7 +102,7 @@ def contar_pecas(tabuleiro):
 def fim_de_jogo(tabuleiro):
     return not jogadas_validas(tabuleiro, preto) and not jogadas_validas(tabuleiro, branco)
 
-# verifica o vencedor da partida (para funcionamento do MD3)
+# verifica o vencedor da partida
 def vencedor_da_partida(tabuleiro):
     pretas, brancas = contar_pecas(tabuleiro)
 
