@@ -92,9 +92,6 @@ A estrutura modular adotada permite fácil manutenção e expansão futura do si
 Projeto desenvolvido por:
 
 - **Danilo Oliveira**
-- **Marcelo Cruz**
-- **Evelyn Rodrigues**
-
 ---
 
 ## Execução do Projeto
