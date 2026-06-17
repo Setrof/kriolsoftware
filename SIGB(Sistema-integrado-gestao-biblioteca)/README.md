@@ -1,6 +1,6 @@
 # Sistema Integrado de Gestão de Biblioteca (SIGB)
 
-## Descrição do Projeto
+## Descrição do Projeto##
 Este projeto consiste no desenvolvimento de uma aplicação desktop para a gestão automatizada de uma biblioteca, implementada na linguagem Java, utilizando a biblioteca Swing para a construção da interface gráfica e a persistência local em base de dados SQLite.
 O projeto foi desenvolvido no contexto académico, especificamente no âmbito da unidade curricular de **Algoritmos e Estruturas de Dados**, com o objetivo prático de aplicar conceitos fundamentais de algoritmia e estrutura de dados, manipulação de dados atravez de estruturas como stack e Filas.
 ---
