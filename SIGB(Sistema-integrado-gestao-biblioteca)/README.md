@@ -101,4 +101,4 @@ Para executar o sistema, é necessário ter o Java JDK instalado na máquina.
 1. Navegue até à pasta de códigos fontes do projeto:
    ```bash
    cd src
-   //execucao --> ficheiro Main.java
+   #execucao --> ficheiro Main.java
