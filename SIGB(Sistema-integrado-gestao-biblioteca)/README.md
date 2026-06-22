@@ -87,7 +87,7 @@ A modularidade do código garante que novas estruturas de dados mais complexas p
 ## Autoria e Divisão de Responsabilidades
 Projeto desenvolvido em regime de dupla académica por:
 
-* **Leonardo Rosa**
+* **Leonardo Rosario**
   * **Responsabilidade Principal:** Desenvolvimento da Interface Gráfica (Front-End / Camada *View*). Criação dos painéis dinâmicos, estruturação dos menus de navegação em `CardLayout` e componentização por abas superiores (`JTabbedPane`).
 
 * **Danilo Oliveira** (ID Estudante: 6098)
